@@ -1,0 +1,36 @@
+<mxfile host="65bd71144e">
+    <diagram id="Y19I28UOJH6cf_5Gao40" name="第 1 页">
+        <mxGraphModel dx="639" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="动画1&lt;br&gt;Block" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="200" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="动画3&lt;br&gt;NonBlock" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="220" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="动画2&lt;br&gt;NonBlock" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="180" width="130" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="动画4&lt;br&gt;Block&lt;br&gt;//此处为阻塞" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="260" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="动画5&lt;br&gt;Block" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="200" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="175" y="150" as="sourcePoint"/>
+                        <mxPoint x="325" y="150" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8">
+                    <mxGeometry x="0.4133" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

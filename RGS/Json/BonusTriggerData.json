@@ -1,0 +1,20 @@
+{
+    "chosen": "MINI",
+    "picksSequence": [
+        "MINI",
+        "MINI",
+        "MINI"
+    ],
+    "eligible": [
+        "MINI",
+        "MINOR",
+        "MAJOR",
+        "GRAND"
+    ],
+    "wins": [
+        {
+            "hit": "MINI",
+            "amount": 25.003
+        }
+    ]
+}

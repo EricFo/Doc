@@ -1,0 +1,288 @@
+{
+    "status": 1,
+    "result": {
+        "server": "192.168.12.211",
+        "jackpots": {
+            "MINI": 100.081,
+            "GRAND": 10000.054,
+            "MAJOR": 0,
+            "MINOR": 250.081,
+            "groupId": "onlinecasino1-USD-LD-VR1-1",
+            "linkType": "1",
+            "turnover": 363,
+            "contributions": {},
+            "lastFillLevel": 5,
+            "jackpotFillLevel": 5,
+            "pendingFillLevel": 5
+        },
+        "gameStack": [],
+        "currencyId": "USD",
+        "cashBalance": 114292.506,
+        "gameOutcome": {
+            "autospin": false,
+            "gameLevel": 0,
+            "wildCount": 3,
+            "creditsBet": 0,
+            "creditsWon": 1275,
+            "jackpotWon": 0,
+            "outcomeGrid": [
+                [
+                    {
+                        "PIC_5": 5
+                    },
+                    {
+                        "PIC_5": 5
+                    },
+                    {
+                        "PIC_5": 5
+                    },
+                    {
+                        "PIC_3": 3
+                    }
+                ],
+                [
+                    {
+                        "PIC_3": 3
+                    },
+                    {
+                        "PIC_4": 4
+                    },
+                    {
+                        "Q": 8
+                    },
+                    {
+                        "PIC_3": 3
+                    }
+                ],
+                [
+                    {
+                        "PIC_5": 5
+                    },
+                    {
+                        "PIC_5": 5
+                    },
+                    {
+                        "WILD": 0
+                    },
+                    {
+                        "PIC_5": 5
+                    }
+                ],
+                [
+                    {
+                        "PIC_1": 1
+                    },
+                    {
+                        "PIC_1": 1
+                    },
+                    {
+                        "A": 6
+                    },
+                    {
+                        "WILD": 0
+                    }
+                ],
+                [
+                    {
+                        "PIC_2": 2
+                    },
+                    {
+                        "PIC_3": 3
+                    },
+                    {
+                        "PIC_3": 3
+                    },
+                    {
+                        "WILD": 0
+                    }
+                ]
+            ],
+            "badgeOutcome": [
+                [
+                    {},
+                    {
+                        "badge": true
+                    },
+                    {},
+                    {}
+                ],
+                [
+                    {},
+                    {},
+                    {},
+                    {}
+                ],
+                [
+                    {},
+                    {},
+                    {},
+                    {
+                        "badge": true
+                    }
+                ],
+                [
+                    {
+                        "badge": true
+                    },
+                    {},
+                    {
+                        "badge": true
+                    },
+                    {}
+                ],
+                [
+                    {
+                        "badge": true
+                    },
+                    {},
+                    {},
+                    {}
+                ]
+            ],
+            "betStructure": {
+                "linesBet": 100,
+                "betPerLine": 1,
+                "betMultiplier": 1,
+                "totalBetCredits": 100
+            },
+            "queuedGameId": "VRGame1_999_v1",
+            "winningLines": {
+                "43": [
+                    [
+                        3,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    1200,
+                    "PIC_3",
+                    2,
+                    100
+                ],
+                "45": [
+                    [
+                        3,
+                        3,
+                        2
+                    ],
+                    75,
+                    "PIC_3",
+                    3,
+                    25
+                ]
+            },
+            "creditsComped": 0,
+            "currentGameId": "VRGame1_999_v1",
+            "scatterOutcome": {},
+            "jackpotsOutcome": {},
+            "randomReelStops": [
+                63,
+                49,
+                148,
+                126,
+                65
+            ],
+            "freespinsOutcome": {
+                "freespinsLevel": 2,
+                "triggerRoundId": "onlinecasino1 VRGame1_999_v1 testPlayer159 2023-10-17 06:49:01.587297",
+                "freespinsRemaining": 2,
+                "freespinsWon": 0,
+                "totalCreditsWon": 9040,
+                "retriggered": false,
+                "wildMultiplier": [
+                    [
+                        2,
+                        2,
+                        3
+                    ],
+                    [
+                        3,
+                        3,
+                        2
+                    ],
+                    [
+                        4,
+                        3,
+                        2
+                    ]
+                ],
+                "wildMultiplierResult": {
+                    "2": {
+                        "2": 3
+                    },
+                    "3": {
+                        "3": 2
+                    },
+                    "4": {
+                        "3": 2
+                    }
+                },
+                "hasWildMultiplier": true
+            },
+            "compCreditsBalance": 0,
+            "lastFreeGameInitalOutcome": {
+                "randomReelStops": [
+                    57,
+                    50,
+                    47,
+                    39,
+                    0
+                ],
+                "winningLines": {
+                    "26": [
+                        [
+                            2,
+                            3,
+                            2
+                        ],
+                        10,
+                        "PIC_5",
+                        1,
+                        10
+                    ]
+                },
+                "scatterOutcome": {
+                    "scatterCount": 3,
+                    "scatterPositions": {
+                        "SCATTER": {
+                            "R0": [
+                                1
+                            ],
+                            "R1": [
+                                1
+                            ],
+                            "R2": [
+                                1
+                            ],
+                            "R3": [],
+                            "R4": []
+                        }
+                    },
+                    "scatterPays": {
+                        "SCATTER": 300
+                    },
+                    "scatterWon": 300
+                }
+            }
+        },
+        "gameRoundId": "onlinecasino1 VRGame1_999_v1 testPlayer159 2023-10-17 06:49:50.851541",
+        "playerToken": "tokentestPlayer159",
+        "requestTime": 1697525390,
+        "sessionMode": 2,
+        "creditsDenom": 0.01,
+        "sessionState": 3,
+        "sessionGameId": "VRGame1_999_v1",
+        "creditsBalance": 11429250.6,
+        "playerLocation": {
+            "IPA": "000.000.000.000",
+            "serverReportedIPA": "192.168.12.27",
+            "latitude": "0",
+            "longitude": "0",
+            "country": "unknown",
+            "state": "unknown"
+        },
+        "sessionActionId": 2,
+        "sessionTimestamp": "2023-10-17 06:49:50.858303"
+    }
+}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+package numTest;
+option csharp_namespace = "Framework.game01";
+
+message TcpPackage
+{
+    fixed64 id =1;
+    fixed64 len=2;
+    fixed64 other=3;
+    bytes data=4;
+
+}

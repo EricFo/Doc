@@ -1,0 +1,184 @@
+{
+    "status": 1,
+    "result": {
+        "server": "192.168.12.116",
+        "jackpots": {
+            "MINI": 25.9825,
+            "GRAND": 10021.683,
+            "MAJOR": 1002.501,
+            "MINOR": 78.7785,
+            "groupId": "onlinecasino1-USD-LD-38-95",
+            "linkType": "1",
+            "turnover": 4.5,
+            "contributions": {
+                "GRAND": "0.00100000",
+                "MAJOR": "0.00100000",
+                "MINOR": "0.00150000",
+                "MINI": "0.00150000",
+                "total": "0.00500000"
+            },
+            "lastFillLevel": 2,
+            "jackpotFillLevel": 2,
+            "pendingFillLevel": 2
+        },
+        "gameStack": [],
+        "currencyId": "USD",
+        "cashBalance": 77067.76000000001,
+        "gameOutcome": {
+            "autospin": false,
+            "gameLevel": 0,
+            "creditsBet": 50,
+            "creditsWon": 35,
+            "jackpotWon": 0,
+            "outcomeGrid": [
+                [
+                    {
+                        "K": 7
+                    },
+                    {
+                        "Q": 8
+                    },
+                    {
+                        "PIC_5": 5
+                    }
+                ],
+                [
+                    {
+                        "J": 9
+                    },
+                    {
+                        "A": 6
+                    },
+                    {
+                        "WILD": 0
+                    }
+                ],
+                [
+                    {
+                        "N": 11
+                    },
+                    {
+                        "WILD": 0
+                    },
+                    {
+                        "K": 7
+                    }
+                ],
+                [
+                    {
+                        "J": 9
+                    },
+                    {
+                        "Q": 8
+                    },
+                    {
+                        "PIC_1": 1
+                    }
+                ],
+                [
+                    {
+                        "K": 7
+                    },
+                    {
+                        "Q": 8
+                    },
+                    {
+                        "PIC_5": 5
+                    }
+                ]
+            ],
+            "betStructure": {
+                "linesBet": 50,
+                "betPerLine": 1,
+                "betMultiplier": 1,
+                "totalBetCredits": 50
+            },
+            "queuedGameId": "Game38_95_v1",
+            "winningLines": {
+                "7": //Key为PayLine的索引，通过索引在初始化请求的配置中查找对应的Line的位置 在gameLevels.lines中
+                 [
+                    [//参与赔付的symbol位置
+                        1,
+                        2,
+                        1
+                    ],
+                    5,//此类型symbol赔付的钱数
+                    "Q",//Symbol名
+                    5//游戏38独有
+                ],
+                "17": [
+                    [
+                        0,
+                        2,
+                        1
+                    ],
+                    5,
+                    "K",
+                    5
+                ],
+                "19": [
+                    [
+                        0,
+                        2,
+                        2
+                    ],
+                    5,
+                    "K",
+                    5
+                ],
+                "24": [
+                    [
+                        2,
+                        2,
+                        1
+                    ],
+                    10,
+                    "PIC_5",
+                    10
+                ],
+                "25": [
+                    [
+                        2,
+                        2,
+                        1
+                    ],
+                    10,
+                    "PIC_5",
+                    10
+                ]
+            },
+            "creditsComped": 0,
+            "currentGameId": "Game38_95_v1",
+            "scatterOutcome": {},
+            "jackpotsOutcome": {},
+            "randomReelStops": [
+                52,
+                60,
+                59,
+                0,
+                0
+            ],
+            "freespinsOutcome": {},
+            "compCreditsBalance": 0,
+            "lastFreeGameInitalOutcome": {}
+        },
+        "gameRoundId": "onlinecasino1 Game38_95_v1 testPlayer1068 2023-07-18 08:41:42.434048",
+        "playerToken": "tokentestPlayer1068",
+        "requestTime": 1689669702,
+        "sessionMode": 2,
+        "creditsDenom": 0.01,
+        "sessionState": 2,
+        "sessionGameId": "Game38_95_v1",
+        "creditsBalance": 7706776,
+        "playerLocation": {
+            "IPA": "000.000.000.000",
+            "serverReportedIPA": "192.168.12.216",
+            "latitude": "0",
+            "longitude": "0",
+            "country": "unknown",
+            "state": "unknown"
+        },
+        "sessionActionId": 2,
+        "sessionTimestamp": "2023-07-18 08:41:42.443288"
+    }
+}
